@@ -1,4 +1,4 @@
-# Inyección de dependencias ejemplo
+# Inyección de dependencias ejemplo :syringe:
 
 Ejemplo conceptual de inyección de dependencias en kotlin
 
