@@ -1,8 +1,8 @@
-# Inyección de dependencias ejemplo :syringe:
+# Inyección de dependencias ejemplo <img src="img/injection.png" width="60">   
 
 Ejemplo conceptual de inyección de dependencias en kotlin
 
-La inyeccion de dependencias es un patron de diseno 
+La inyeccion de dependencias es un patron de diseño 
 que debe de utilizarse para que el mantenimiento de 
 codigo a futuro sea mas facil de realizar.
 
